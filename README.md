@@ -10,7 +10,7 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 
 ### Backend
 
--Clone o Repositório GitHub
+#Clone o Repositório GitHub
 1. Clonando o Repositório GitHub no Terminal
    -git clone https://github.com/guiparreira98/Guilherme_valli_parreira.git
 
@@ -22,7 +22,7 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
    -npm install
    
 
--Instalação Nodejs(caso nao tenha instalado)
+#Instalação Nodejs(caso nao tenha instalado)
 
 1.Acesse o site oficial do Node.js:
   -Visite nodejs.org no seu navegador.
@@ -45,7 +45,7 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
   -sudo yum install epel-release
   -sudo yum install nodejs npm
 
--Instalar o Express
+#Instalar o Express
 
 1.Instalação
    -npm install express
