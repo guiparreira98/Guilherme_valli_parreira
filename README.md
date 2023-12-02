@@ -63,4 +63,5 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
       
    2.Inicialize o servidor de desenvolvimento
       -npm run serve
+      -O frontend estará disponível em: http://localhost:8080
 
