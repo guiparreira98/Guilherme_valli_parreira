@@ -7,6 +7,7 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 - Node.js(BackEnd)
 - Vuejs(Front-end)
 - npm (Node Package Manager)
+- MongoDB (Banco de Dados)
 
 ### Backend
 
