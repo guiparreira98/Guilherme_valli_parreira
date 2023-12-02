@@ -9,6 +9,15 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 - npm (Node Package Manager)
 
 ### Backend
+
+-Clone o Repositório GitHub
+1. No terminal
+   -git clone https://github.com/seu-username/seu-repositorio.git
+
+
+
+
+
 -Instalação Nodejs(caso nao tenha instalado)
 
 1.Acesse o site oficial do Node.js:
