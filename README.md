@@ -9,6 +9,12 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 - npm (Node Package Manager)
 - MongoDB (Banco de Dados)
 
+### Banco de dados
+Este projeto utiliza um banco de dados MongoDB para armazenar os dados. A conexão com o banco de dados é feita através do arquivo `conn.js` localizado no diretório `Guilherme_valli_parreira/Backend/db/conn.js`. Neste arquivo, a conexão com o banco de dados foi configurada para permitir acesso sem autenticação.
+
+# Conexão com o Banco de Dados
+O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB sem a necessidade de fornecer credenciais de autenticação. Ao executar o código, a conexão com o banco de dados será estabelecida automaticamente.
+
 ### Backend
 
 # Clone o Repositório GitHub
@@ -62,7 +68,7 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
    -npm install -g @vue/cli
 
 # Inicializando o FrontEnd
-   1.Acrssar o Frontend
+   1.Acessar o Frontend
       -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git/FrontEnd/frontend
       
    2.Inicialize o servidor de desenvolvimento
