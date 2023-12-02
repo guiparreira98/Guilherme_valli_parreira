@@ -52,7 +52,17 @@ O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB s
 3.Verificar se o Node.js foi instalado corretamente
    -node -v
    
+# Instalação Node.js no Mac(caso não tenha instalado)
 
+1.Instale o Homebrew
+   -No terminal digite: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   
+2.Instale o Node.js utilizando o homebrew
+   -Apos Instalar o Homebrew digite: brew install node
+   
+3.Verificar Instalação
+   -node -v
+   -npm -v
 
 # Instalar o Express
 
