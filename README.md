@@ -12,10 +12,10 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 
 # Clone o Repositório GitHub
 1. Clonando o Repositório GitHub no Terminal
-   -git clone https://github.com/guiparreira98/Guilherme_valli_parreira.git
+   -git clone https://github.com/guiparreira98/Guilherme_valli_parreira.git/backend
 
 2.Navegue até o diretório no terminal
-   -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git
+   -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git/backend
 
 3.Instale as dependências do projeto
    OBS: Se o arquivo package.json estiver presente no diretório do backend, você pode instalar as dependências do projeto (incluindo o Express) com o comando
