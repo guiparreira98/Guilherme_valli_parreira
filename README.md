@@ -42,7 +42,7 @@ O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB s
   -Após a instalação ser concluída, abra um terminal ou prompt de comando e execute os seguintes comandos para verificar se o Node.js
   -node -v
 
-# Instalação Node.js  np Linux(caso não tenha instalado)
+# Instalação Node.js no Sistema Linux(caso não tenha instalado)
 1. Abra o terminal no seu sistema Linux.
 
 2.Utilize um dos seguintes métodos para instalar o Node.js
