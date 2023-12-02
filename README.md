@@ -23,5 +23,12 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
   -Após a instalação ser concluída, abra um terminal ou prompt de comando e execute os seguintes comandos para verificar se o Node.js
   -node -v
   
-5.
+5.Caso estiver usando Linux
+  #Ubuntu/Debian:
+  -sudo apt update
+  -sudo apt install nodejs npm
+
+  #CentOS/Red Hat:
+  -sudo yum install epel-release
+  -sudo yum install nodejs npm
 
