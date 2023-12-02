@@ -48,7 +48,10 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 
 1.Instalação
    -npm install express
-2.Executando o aplicativo no Terminal
+
+# Iniciar Aplicação
+
+1.Executando o aplicativo no Terminal
     
    -node index.js
 
