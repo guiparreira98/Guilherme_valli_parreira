@@ -12,13 +12,12 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
 
 # Clone o Repositório GitHub
 1. Clonando o Repositório GitHub no Terminal
-   -git clone https://github.com/guiparreira98/Guilherme_valli_parreira.git/backend
+   -git clone https://github.com/guiparreira98/Guilherme_valli_parreira.git/Backend
 
 2.Navegue até o diretório no terminal
-   -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git/backend
+   -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git/Backend
 
 3.Instale as dependências do projeto
-   OBS: Se o arquivo package.json estiver presente no diretório do backend, você pode instalar as dependências do projeto (incluindo o Express) com o comando
    -npm install
    
 
@@ -54,4 +53,14 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
    -node index.js
 
 ### FrontEnd
+
+# Instalando o Vue.js Globalmente
+   -npm install -g @vue/cli
+
+# Inicializando o FrontEnd
+   1.diretório raiz do projeto
+      -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git/FrontEnd/frontend
+      
+   2.Inicialize o servidor de desenvolvimento
+      -npm run serve
 
