@@ -28,7 +28,7 @@ O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB s
    -npm install
    
 
-# Instalação Nodejs(caso nao tenha instalado)
+# Instalação Nodejs(caso não tenha instalado)
 
 1.Acesse o site oficial do Node.js:
   -Visite nodejs.org no seu navegador.
@@ -41,15 +41,6 @@ O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB s
 4.Verifique a instalação:
   -Após a instalação ser concluída, abra um terminal ou prompt de comando e execute os seguintes comandos para verificar se o Node.js
   -node -v
-  
-5.Caso estiver usando Linux
-  #Ubuntu/Debian:
-  -sudo apt update
-  -sudo apt install nodejs npm
-
-  #CentOS/Red Hat:
-  -sudo yum install epel-release
-  -sudo yum install nodejs npm
 
 # Instalar o Express
 
