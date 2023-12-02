@@ -53,6 +53,9 @@ O arquivo `conn.js` foi configurado para se conectar ao banco de dados MongoDB s
     
    -node index.js
 
+2.Mensagem Terminal
+   - Se aparecer no Terminal as seguintes mensagens: "Servidor Online" e "Conectado ao banco" significa que a Inicialização foi feita Corretamente
+
 ### FrontEnd
 
 # Instalando o Vue.js Globalmente
