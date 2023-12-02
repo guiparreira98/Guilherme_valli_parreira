@@ -61,7 +61,7 @@ Este projeto consiste em uma aplicação desenvolvida em Node.js para o backend 
    -npm install -g @vue/cli
 
 # Inicializando o FrontEnd
-   1.diretório raiz do projeto
+   1.Acrssar o Frontend
       -cd https://github.com/guiparreira98/Guilherme_valli_parreira.git/FrontEnd/frontend
       
    2.Inicialize o servidor de desenvolvimento
